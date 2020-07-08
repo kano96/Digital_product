@@ -1,0 +1,22 @@
+@media (max-width:768px){
+    .products{
+        display: inherit;
+        height: auto;
+    }
+    .product{
+        margin-top: auto;
+    }
+    .main_section{
+        padding: 4%;
+    }
+    .description, .personas{
+        display: inherit;
+        text-align: -webkit-center;
+    }
+    .escrito{
+        padding-bottom: 5px;
+    }
+    .contenido{
+        margin-bottom: 5px;
+    }
+}
